@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("AudioHelper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("声音小助手")]
+[assembly: AssemblyDescription("声音小助手")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AudioHelper")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("BitGlow")]
+[assembly: AssemblyProduct("AudioHel    per")]
+[assembly: AssemblyCopyright("Copyright ©  2019 好奇的 01")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
