@@ -9,7 +9,7 @@ namespace AudioHelper
 /// </summary>
     internal static class AppConfig
     {
-        private static RegistryKey registryKey = Registry.CurrentUser.CreateSubKey($"{Application.CompanyName}\\{Application.ProductName}");
+        private static RegistryKey registryKey = Registry.CurrentUser.CreateSubKey($"SOFTWARE\\{Application.CompanyName}\\{Application.ProductName}");
 
 /// <summary>
 /// 获取或设置播放类型。数据存放在注册表中。

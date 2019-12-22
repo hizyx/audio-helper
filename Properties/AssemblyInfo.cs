@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("声音小助手")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BitGlow")]
-[assembly: AssemblyProduct("AudioHel    per")]
+[assembly: AssemblyProduct("AudioHelper")]
 [assembly: AssemblyCopyright("Copyright ©  2019 好奇的 01")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
